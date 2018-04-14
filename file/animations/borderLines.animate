@@ -1,0 +1,18 @@
+/* 
+  Name:			BorderLines
+  Type:			Emphasis
+  Description:	BorderLines Effect
+  Version:		2.0	
+  locale:		{"zh-Hans":"边框线条", "en-US":"border Lines"}
+  Class:        BorderLines
+    Parameter:   	<^   {"Options":{"lineThickness":3,"times":1,"color":16711680,"lineMoveDirection":0}}   $>
+  
+ */
+ 
+@keyframes borderLines{
+	
+}
+
+.borderLines{
+	animation-duration: 2s;
+}
